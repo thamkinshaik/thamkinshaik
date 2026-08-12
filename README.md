@@ -61,3 +61,4 @@ Turning raw data into clear insights — one query, one model, one dashboard at 
 ---
 
 <p align="center">⭐ Thanks for visiting my profile — let's connect and learn together!</p>
+- 📫 Reach me: [thamkinshaik@gmail.com](mailto:thamkinshaik@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shaikthamkinbanu/)
