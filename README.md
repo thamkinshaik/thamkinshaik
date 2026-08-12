@@ -13,7 +13,7 @@ Turning raw data into clear insights — one query, one model, one dashboard at 
 - 🎯 Goal: Become a **Data Analyst / AI & ML Professional**
 - 📂 Check out my [Certificates & Practice Repo](https://github.com/thamkinshaik/certificates-and-practice) for my learning journey
 - 💬 Ask me about: Python, SQL, Excel, Power BI, Data Analysis
-- 📫 Reach me: *(add your email or LinkedIn here)*
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/shaikthamkinbanu)
 
 ---
 
@@ -43,15 +43,6 @@ Turning raw data into clear insights — one query, one model, one dashboard at 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thamkinshaik&show_icons=true&theme=default" alt="thamkinshaik's GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thamkinshaik" alt="thamkinshaik's streak stats" height="165"/>
-</p>
-
----
-
 ### 🚀 Featured Projects
 - 📊 [Data Analyst Portfolio](https://github.com/thamkinshaik/thamkin-data-analyst-portfolio)
 - 🦠 [COVID-19 Power BI Dashboard](https://github.com/thamkinshaik/covid-19-powerbi-dashboard)
@@ -61,4 +52,3 @@ Turning raw data into clear insights — one query, one model, one dashboard at 
 ---
 
 <p align="center">⭐ Thanks for visiting my profile — let's connect and learn together!</p>
-- 📫 Reach me: [thamkinshaik@gmail.com](mailto:thamkinshaik@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shaikthamkinbanu/)
