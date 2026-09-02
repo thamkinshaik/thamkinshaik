@@ -3,7 +3,7 @@
 
 <p align="center">
 Turning raw data into clear insights — one query, one model, one dashboard at a time.
-</p>
+</>
 
 ---
 
