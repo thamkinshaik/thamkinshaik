@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst | AI & ML Enthusiast</h3>
 
 <p align="center">
-Turning raw data into clear insights — one query, one model, one dashboard at a time.
+Turning raw data into clear insights — one query, one model, one dashboard at a time
 </p>
 
 ---
