@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst | AI & ML Enthusiast</h3>
 
 <p align="center">
-Turning raw data into clear insights — one query, one model, one dashboard at a time
+Turning raw data into clear insights, one query, one model, one dashboard at a time
 </p>
 
 ---
@@ -19,36 +19,25 @@ Turning raw data into clear insights — one query, one model, one dashboard at 
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=py,mysql,powerbi,git,github" alt="tech icons" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" height="55"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" height="55"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 🎓 Certifications
 - ExcelR Data Analyst Training
 - NASSCOM Data Analyst Certificate
-- Infosys Springboard – Excel for Data Analyst
-- Infosys Springboard – Prompt Engineering
-- Infosys Springboard – NLP Certificate
-- AI Architect Certificate
+- Infosys Springboard: Excel for Data Analyst
+- Infosys Springboard: Prompt Engineering
+- Infosys Springboard: NLP Certificate
 - Advanced NLP Certificate
 - AI in Industry Certificate
 - GeeksforGeeks Python & Problem Solving Certificates
 
 📁 All certificates available here → [certificates-and-practice](https://github.com/thamkinshaik/certificates-and-practice)
-
----
-
-### 🚀 Featured Projects
-- 📊 [Data Analyst Portfolio](https://github.com/thamkinshaik/thamkin-data-analyst-portfolio)
-- 🦠 [COVID-19 Power BI Dashboard](https://github.com/thamkinshaik/covid-19-powerbi-dashboard)
-- 👥 [HR Analytics Dashboard - Power BI](https://github.com/thamkinshaik/hr-analytics-dashboard-powerbi)
-- 🐦 [Bird Species Classification (CNN)](https://github.com/thamkinshaik/bird-species-classification-cnn-)
-
----
-
-<p align="center">⭐ Thanks for visiting my profile — let's connect and learn together!</p>
